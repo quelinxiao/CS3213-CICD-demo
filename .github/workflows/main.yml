@@ -21,7 +21,7 @@ jobs:
     steps:
       - name: hello
         # The CLI command(s) for this job
-        run: echo "Hello World"
+        run: echo "Hello World!"
   
   # # Demo: This job checks whether all .py files in the root directory
   # # begins with CS3213
